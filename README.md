@@ -12,7 +12,7 @@
               DB :  MariaDB , SQL  
               기타 : jQuery , ajax , github , apache Tomcat , PostMan   
 
-
+  
 ============================================================  
 Language  
 [JAVA]  
@@ -20,31 +20,33 @@ Language
  - 변수, 연산자, 조건문, 반복문 활용 가능  
  - 예외처리 활용 가능  
  - 상속, 추상클래스 활용 가능  
- - 컬렉션 프레임워크 제네릭 활용 가능     
-   
- [JSP]    
- - Get/Set 메소드를 이용해 DB와 연동하여 DB 입출력    
+ - 컬렉션 프레임워크 제네릭 활용 가능        
 
 [Java Script]  
  - IE/Firefox 기반의 HTML/DHTML 코딩  
  - 체크박스를 이용한 선택 삭제 가능  
+ - jQuery 라이브러리 사용 가능 
+   
 [Ajax]  
- - Ajax 기반 application 프로그램 작성  
+ - Ajax 기반 application 프로그램 작성   
 [오픈 API]  
- - 카카오map API를 활용한 표시 기능 구현 가능  
+ - 다음주소 API를 활용한 기능 구현 가능  
 [HTML]  
  - CSS 의 유형별 선언 및 사용 가능  
- - input 태그를 이용한 회원가입, 로그인, 게시판 구축가능  
+ - input 태그를 이용한 회원가입, 로그인 등 다양한 종류 구축가능  
+
+
 [DBMS]  
 [Oracle / MySQL]   
  - DB 설치 및 기본 SQL 작성  
- - 데이터 베이스 및 테이블 설계  
+ - 데이터 베이스 및 테이블 설계   
+
 [Web Sever]   
 Apache Tomcat  
 [Framework]  
 My Batis, jQuery, Spring, BootStrap  
 [Tool]   
-Bracket, Eclipse, MySQL Command Line Client, DBeaver, Android Studio, STS  
+ Eclipse, Oracle , Atom , DBeaver, JetBrains , STS , Visual Studio Code
 
 
 

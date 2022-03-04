@@ -1,6 +1,6 @@
 <h2>학원 교육이수 내용 : Java, HTML5 , SQL , JSP , Spring 등 </h2>
   
-<h3>프로젝트1 ) 의류 쇼핑몰 웹 사이트 만들기</h3>
+<h3>개인 프로젝트1 ) 의류 쇼핑몰 웹 사이트 만들기</h3>
 
 <h4>개발언어/환경</h4>
             -프론트 : html5 css js <br>                    
@@ -10,8 +10,8 @@
               
 
 
-<h3>프로젝트2 ) 스프링 부트 SNS 포토그램 웹 사이트 만들기</h3>  
-
+<h3>팀 프로젝트2 ) (클론코딩)스프링 부트 SNS 포토그램 웹 사이트 만들기</h3>  
+https://www.easyupclass.com/ (강의사이트)
 <h4>개발언어/환경</h4>
             -프론트 : html5 css js<br>   
             -백엔드 : Spring Boot , JSP , Java , JSON <br>              
@@ -50,11 +50,26 @@ Language<br>
  -  조인, 서브쿼리 사용 가능 
 [Web Sever]<br>     
 Apache Tomcat  <br>  
-[Framework]  <br>  
+[Spring Framework]  <br>  
 My Batis, jQuery, Spring, BootStrap  <br>  
 MVC2 방식 사용 <br>
-Lombok , log4j , Junit 사용 
-커넥션풀 HikariCP 라이브러리 사용
+Lombok , log4j , Junit 사용 <br>
+커넥션풀 HikariCP 라이브러리 사용<br>
+
+[Spring Boot]  <br> 
+JPA 연관관계 ManyToOne, OneToMany, ManyToMany <br>
+JPA 무한참조 방지<br>
+JPA 양방향 매핑<br>
+복잡한 모델 DTO 매핑 방법 – QLRM 라이브러리<br>
+SQL – 스칼라 서브 쿼리, 인라인 뷰, 조인 활용하기<br>
+스프링 부트 open-in-view와 Lazy loading<br>
+ResponseEntity와 공통 응답을 위한 DTO<br>
+커스텀 예외 핸들링 방법<br>
+유효성 검사를 리플렉션을 통해 처리하는 방법<br>
+AOP를 이용하여 유효성 검사를 자동화하는 방법<br>
+스프링 시큐리티<br>
+OAuth2.0<br>
+기본 로그인과 페이스북 로그인 세션 통합 관리하는 법<br>
 
 [Tool]   
  Eclipse, Oracle , Atom , DBeaver, JetBrains , STS , Visual Studio Code<br>  

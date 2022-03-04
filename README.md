@@ -1,4 +1,4 @@
-<h2>교육이수 내용 : Java, HTML5 , SQL , JSP , Spring 등 </h2>
+<h2>학원 교육이수 내용 : Java, HTML5 , SQL , JSP , Spring 등 </h2>
   
 <h3>프로젝트1 ) 의류 쇼핑몰 웹 사이트 만들기</h3>
 

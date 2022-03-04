@@ -25,9 +25,9 @@
 [JAVA]      
  - 자바를 이용하여 웹 애플리케이션 개발      
  - 변수, 연산자, 조건문, 반복문 활용 가능      
- - 예외처리 활용 가능      
- - 상속, 추상클래스 활용 가능      
- - 컬렉션 프레임워크 , 제네릭 , IO입출력 활용 가능            
+ - 예외 처리 활용 가능      
+ - 상속, 추상 클래스 활용 가능      
+ - 컬렉션 프레임워크, 제네릭, IO입출력 활용 가능            
 
 [Java Script]   
  - IE/Firefox 기반의 HTML/DHTML 코딩      
@@ -37,17 +37,17 @@
 [Ajax]    
  - Ajax 기반 application 프로그램 작성       
 [오픈 API]      
- - 다음주소 API를 활용한 기능 구현 가능      
+ - 다음 주소 API를 활용한 기능 구현 가능      
 [HTML]     
  - CSS 의 유형별 선언 및 사용 가능      
- - input 태그를 이용한 회원가입, 로그인 등 다양한 종류 구축가능      
+ - input 태그를 이용한 회원가입, 로그인 등 다양한 종류 구축 가능      
 
 
 [DBMS]    
 [Oracle / MySQL]       
  - DB 설치 및 기본 SQL 작성      
  - 데이터 베이스 및 테이블 설계       
- - 조인, 서브쿼리 등 사용 가능   
+ - 조인, 서브 쿼리 등 사용 가능   
 
 [Web Sever]       
  - Apache Tomcat      
@@ -60,7 +60,7 @@
 
 [Spring Boot]  <br> 
  - JPA 연관관계 ManyToOne, OneToMany, ManyToMany 
- - JPA 무한참조 방지
+ - JPA 무한 참조 방지
  - JPA 양방향 매핑
  - 복잡한 모델 DTO 매핑 방법 – QLRM 라이브러리
  - SQL – 스칼라 서브 쿼리, 인라인 뷰, 조인 활용하기
@@ -71,7 +71,7 @@
  - AOP를 이용하여 유효성 검사를 자동화하는 방법
  - 스프링 시큐리티
  - OAuth2.0
- - 기본 로그인과 페이스북 로그인 세션 통합 관리하는 법<
+ - 기본 로그인과 페이스북 로그인 세션 통합 관리하는 법
 
 [Tool]   
  - Eclipse , Atom , DBeaver, JetBrains , STS , Visual Studio Code 

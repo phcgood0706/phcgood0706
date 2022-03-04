@@ -2,11 +2,11 @@
   
 프로젝트1) 의류 쇼핑몰 웹 사이트 만들기  
 
-<h4>개발언어/환경</h4> :<br> 
-              프론트 : html5 css js <br>                    
-              백엔드 : Spring Framework , JSP , Java  <br>                  
-              DB : SQL , Mybatis <br>                    
-              기타 : jQuery , ajax , github , apache Tomcat  <br>   
+<h4>개발언어/환경</h4>:<br> 
+            -프론트 : html5 css js <br>                    
+            -백엔드 : Spring Framework , JSP , Java  <br>                  
+            -DB : SQL , Mybatis <br>                    
+            -기타 : jQuery , ajax , github , apache Tomcat  <br>   
               
   
 프로젝트2) 스프링 부트 SNS 포토그램 웹 사이트 만들기  

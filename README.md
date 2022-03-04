@@ -6,7 +6,7 @@
  - 프론트 : html5 css js                       
  - 백엔드 : Spring Framework , JSP , Java , JSON                
  - DB : SQL , Mybatis                       
- - 기타 : jQuery , ajax , github , apache Tomcat  
+ - Server :  github , apache Tomcat  
               
 
 
@@ -16,7 +16,7 @@
  - 프론트 : html5 css js     
  - 백엔드 : Spring Boot , JSP , Java , JSON                 
  - DB :  MariaDB , SQL                 
- - 기타 : jQuery , ajax , github , apache Tomcat , PostMan     
+ - Server :  github , apache Tomcat , PostMan     
               
 ============================================================  
    

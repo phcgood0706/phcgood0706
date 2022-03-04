@@ -74,7 +74,7 @@
  - 기본 로그인과 페이스북 로그인 세션 통합 관리하는 법<
 
 [Tool]   
- - Eclipse, Oracle , Atom , DBeaver, JetBrains , STS , Visual Studio Code 
+ - Eclipse , Atom , DBeaver, JetBrains , STS , Visual Studio Code 
 
 
 

@@ -48,8 +48,10 @@
  - DB 설치 및 기본 SQL 작성      
  - 데이터 베이스 및 테이블 설계       
  - 조인, 서브쿼리 등 사용 가능   
+
 [Web Sever]       
  - Apache Tomcat      
+
 [Framework]     
  - My Batis, jQuery, Spring, BootStrap      
  - MVC2 방식 사용   

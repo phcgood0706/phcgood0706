@@ -1,10 +1,16 @@
 교육이수 내용: Java, HTML5 , SQL , JSP , Spring 등 
-
-프로젝트1) 디저트 카페 웹페이지 만들기
-개발언어/환경: Spring, Oracle database, Json, Apache Tomcat, Mybatis, Jquery
-
-프로젝트2) 도서관리 프로그램 만들기
-개발언어/환경: Java, Oracle database 
+  
+프로젝트1) 의류 쇼핑몰 웹 사이트 만들기  
+개발언어/환경: 프론트 : html5 css js   
+              백엔드 : Spring Framework , JSP , Java  
+              DB : SQL , Mybatis  
+              기타 : jQuery , ajax , github , apache Tomcat 
+  
+프로젝트2) 스프링 부트 SNS 포토그램 웹 사이트 만들기  
+개발언어/환경: 프론트 : html5 css js   
+              백엔드 : Spring Boot , JSP , Java  
+              DB :  MariaDB , SQL  
+              기타 : jQuery , ajax , github , apache Tomcat , PostMan   
 
 
 ============================================================  
@@ -18,6 +24,7 @@ Language
    
  [JSP]    
  - Get/Set 메소드를 이용해 DB와 연동하여 DB 입출력    
+
 [Java Script]  
  - IE/Firefox 기반의 HTML/DHTML 코딩  
  - 체크박스를 이용한 선택 삭제 가능  

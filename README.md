@@ -20,43 +20,43 @@
               
 ============================================================  
    
-Language      
+<h3>Language</h3>       
 
-[JAVA]        
+<h4>[JAVA]</h4>        
  - 자바를 이용하여 웹 애플리케이션 개발      
  - 변수, 연산자, 조건문, 반복문 활용 가능      
  - 예외처리 활용 가능      
  - 상속, 추상클래스 활용 가능      
  - 컬렉션 프레임워크 , 제네릭 , IO입출력 활용 가능            
 
-[Java Script]      
+<h4>[Java Script]</h4>      
  - IE/Firefox 기반의 HTML/DHTML 코딩      
  - 체크박스를 이용한 선택 삭제 가능      
  - jQuery 라이브러리 사용 가능     
    
-[Ajax]     
+<h4>[Ajax]</h4>     
  - Ajax 기반 application 프로그램 작성       
-[오픈 API]      
+<h4>[오픈 API]</h4>      
  - 다음주소 API를 활용한 기능 구현 가능      
-[HTML]      
+<h4>[HTML]</h4>      
  - CSS 의 유형별 선언 및 사용 가능      
  - input 태그를 이용한 회원가입, 로그인 등 다양한 종류 구축가능      
 
 
-[DBMS]      
-[Oracle / MySQL]       
+<h4>[DBMS]</h4>      
+<h4>[Oracle / MySQL]</h4>       
  - DB 설치 및 기본 SQL 작성      
  - 데이터 베이스 및 테이블 설계       
  - 조인, 서브쿼리 등 사용 가능 
-[Web Sever]       
+<h4>[Web Sever]</h4>       
 Apache Tomcat      
-[Framework]      
+<h4>[Framework]</h4>      
  - My Batis, jQuery, Spring, BootStrap      
  - MVC2 방식 사용   
  - Lombok , log4j , Junit 사용 
  - 커넥션풀 HikariCP 라이브러리 사용
 
-[Spring Boot]  <br> 
+<h4>[Spring Boot]</h4>  <br> 
  - JPA 연관관계 ManyToOne, OneToMany, ManyToMany 
  - JPA 무한참조 방지
  - JPA 양방향 매핑
@@ -71,7 +71,7 @@ Apache Tomcat
  - OAuth2.0
  - 기본 로그인과 페이스북 로그인 세션 통합 관리하는 법<
 
-[Tool]   
+<h4>[Tool]</h4>   
  Eclipse, Oracle , Atom , DBeaver, JetBrains , STS , Visual Studio Code 
 
 

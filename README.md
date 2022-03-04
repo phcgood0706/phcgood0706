@@ -4,7 +4,7 @@
 
 <h4>개발언어/환경</h4>
             -프론트 : html5 css js <br>                    
-            -백엔드 : Spring Framework , JSP , Java  <br>                  
+            -백엔드 : Spring Framework , JSP , Java , JSON <br>                  
             -DB : SQL , Mybatis <br>                    
             -기타 : jQuery , ajax , github , apache Tomcat  <br> <br>  
               
@@ -14,7 +14,7 @@
 
 <h4>개발언어/환경</h4>
             -프론트 : html5 css js<br>   
-            -백엔드 : Spring Boot , JSP , Java<br>              
+            -백엔드 : Spring Boot , JSP , Java , JSON <br>              
             -DB :  MariaDB , SQL<br>               
             -기타 : jQuery , ajax , github , apache Tomcat , PostMan<br>   
               
@@ -27,7 +27,7 @@ Language<br>
  - 변수, 연산자, 조건문, 반복문 활용 가능  <br>  
  - 예외처리 활용 가능  <br>  
  - 상속, 추상클래스 활용 가능  <br>  
- - 컬렉션 프레임워크 제네릭 활용 가능  <br>        
+ - 컬렉션 프레임워크 , 제네릭 , IO입출력 활용 가능  <br>        
 
 [Java Script]<br>    
  - IE/Firefox 기반의 HTML/DHTML 코딩  <br>  
@@ -47,11 +47,15 @@ Language<br>
 [Oracle / MySQL]  <br>   
  - DB 설치 및 기본 SQL 작성  <br>  
  - 데이터 베이스 및 테이블 설계   <br>  
-
+ -  조인, 서브쿼리 사용 가능 
 [Web Sever]<br>     
 Apache Tomcat  <br>  
 [Framework]  <br>  
 My Batis, jQuery, Spring, BootStrap  <br>  
+MVC2 방식 사용 <br>
+Lombok , log4j , Junit 사용 
+커넥션풀 HikariCP 라이브러리 사용
+
 [Tool]   
  Eclipse, Oracle , Atom , DBeaver, JetBrains , STS , Visual Studio Code<br>  
 

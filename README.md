@@ -34,7 +34,7 @@
  - 체크박스를 이용한 선택 삭제 가능      
  - jQuery 라이브러리 사용 가능     
    
-<h4>[Ajax]</h4>     
+[Ajax]    
  - Ajax 기반 application 프로그램 작성       
 <h4>[오픈 API]</h4>      
  - 다음주소 API를 활용한 기능 구현 가능      

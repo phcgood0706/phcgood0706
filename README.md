@@ -6,7 +6,7 @@
             -프론트 : html5 css js <br>                    
             -백엔드 : Spring Framework , JSP , Java  <br>                  
             -DB : SQL , Mybatis <br>                    
-            -기타 : jQuery , ajax , github , apache Tomcat  <br>   
+            -기타 : jQuery , ajax , github , apache Tomcat  <br> <br>  
               
 
 

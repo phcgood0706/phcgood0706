@@ -2,7 +2,7 @@
   
 프로젝트1) 의류 쇼핑몰 웹 사이트 만들기  
 
-<h4>개발언어/환경</h4>:<br> 
+<h4>개발언어/환경</h4>
             -프론트 : html5 css js <br>                    
             -백엔드 : Spring Framework , JSP , Java  <br>                  
             -DB : SQL , Mybatis <br>                    

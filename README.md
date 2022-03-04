@@ -1,6 +1,6 @@
-교육이수 내용: Java, HTML5 , SQL , JSP , Spring 등 
+<h2>교육이수 내용 : Java, HTML5 , SQL , JSP , Spring 등 </h2>
   
-프로젝트1) 의류 쇼핑몰 웹 사이트 만들기  
+<h3>프로젝트1) 의류 쇼핑몰 웹 사이트 만들기  </h3>
 
 <h4>개발언어/환경</h4>
             -프론트 : html5 css js <br>                    
@@ -8,7 +8,8 @@
             -DB : SQL , Mybatis <br>                    
             -기타 : jQuery , ajax , github , apache Tomcat  <br>   
               
-  
+
+
 프로젝트2) 스프링 부트 SNS 포토그램 웹 사이트 만들기  
 
 개발언어/환경: 프론트 : html5 css js   

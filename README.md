@@ -10,7 +10,7 @@
               
 
 
-<h3>팀 프로젝트2 ) (클론코딩) [스프링 부트 SNS 포토그램 웹 사이트 만들기] (https://github.com/phcgood0706/SpringBoot-Photogram)</h3> 
+팀 프로젝트2 ) (클론코딩) [스프링 부트 SNS 포토그램 웹 사이트 만들기] (https://github.com/phcgood0706/SpringBoot-Photogram)
 
 개발언어/환경
  - 프론트 : html5 css js     

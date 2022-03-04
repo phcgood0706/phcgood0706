@@ -21,39 +21,39 @@
 <br> 
 <br>   
 ============================================================<br>   
-Language  
-[JAVA]    
+Language<br>    
+[JAVA]<br>      
  - 자바를 이용하여 웹 애플리케이션 개발  <br>  
  - 변수, 연산자, 조건문, 반복문 활용 가능  <br>  
  - 예외처리 활용 가능  <br>  
  - 상속, 추상클래스 활용 가능  <br>  
  - 컬렉션 프레임워크 제네릭 활용 가능  <br>        
 
-[Java Script]  
+[Java Script]<br>    
  - IE/Firefox 기반의 HTML/DHTML 코딩  <br>  
  - 체크박스를 이용한 선택 삭제 가능  <br>  
  - jQuery 라이브러리 사용 가능 <br>  
    
-[Ajax]  
+[Ajax]<br>   
  - Ajax 기반 application 프로그램 작성   <br>  
-[오픈 API]  
+[오픈 API]<br>    
  - 다음주소 API를 활용한 기능 구현 가능 <br>   
-[HTML]  
- - CSS 의 유형별 선언 및 사용 가능  
- - input 태그를 이용한 회원가입, 로그인 등 다양한 종류 구축가능  
+[HTML]<br>    
+ - CSS 의 유형별 선언 및 사용 가능<br>    
+ - input 태그를 이용한 회원가입, 로그인 등 다양한 종류 구축가능  <br>  
 
 
-[DBMS]  
-[Oracle / MySQL]   
- - DB 설치 및 기본 SQL 작성  
- - 데이터 베이스 및 테이블 설계   
+[DBMS] <br>   
+[Oracle / MySQL]  <br>   
+ - DB 설치 및 기본 SQL 작성  <br>  
+ - 데이터 베이스 및 테이블 설계   <br>  
 
-[Web Sever]   
-Apache Tomcat  
-[Framework]  
-My Batis, jQuery, Spring, BootStrap  
+[Web Sever]<br>     
+Apache Tomcat  <br>  
+[Framework]  <br>  
+My Batis, jQuery, Spring, BootStrap  <br>  
 [Tool]   
- Eclipse, Oracle , Atom , DBeaver, JetBrains , STS , Visual Studio Code
+ Eclipse, Oracle , Atom , DBeaver, JetBrains , STS , Visual Studio Code<br>  
 
 
 

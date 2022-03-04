@@ -15,8 +15,9 @@ Language
  - 예외처리 활용 가능  
  - 상속, 추상클래스 활용 가능  
  - 컬렉션 프레임워크 제네릭 활용 가능     
-[JSP]  
- - Get/Set 메소드를 이용해 DB와 연동하여 DB 입출력  
+   
+ [JSP]    
+ - Get/Set 메소드를 이용해 DB와 연동하여 DB 입출력    
 [Java Script]  
  - IE/Firefox 기반의 HTML/DHTML 코딩  
  - 체크박스를 이용한 선택 삭제 가능  

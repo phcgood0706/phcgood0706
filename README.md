@@ -43,8 +43,8 @@
  - input 태그를 이용한 회원가입, 로그인 등 다양한 종류 구축가능      
 
 
-[DBMS]     
-<h4>[Oracle / MySQL]</h4>       
+[DBMS]    
+[Oracle / MySQL]       
  - DB 설치 및 기본 SQL 작성      
  - 데이터 베이스 및 테이블 설계       
  - 조인, 서브쿼리 등 사용 가능 

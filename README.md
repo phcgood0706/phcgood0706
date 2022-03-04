@@ -4,22 +4,22 @@
 
 개발언어/환경: 프론트 : html5 css js   
 
-              백엔드 : Spring Framework , JSP , Java  
+             - 백엔드 : Spring Framework , JSP , Java  
               
-              DB : SQL , Mybatis  
+             - DB : SQL , Mybatis  
               
-              기타 : jQuery , ajax , github , apache Tomcat 
+            - 기타 : jQuery , ajax , github , apache Tomcat 
               
   
 프로젝트2) 스프링 부트 SNS 포토그램 웹 사이트 만들기  
 
 개발언어/환경: 프론트 : html5 css js   
 
-              백엔드 : Spring Boot , JSP , Java  
+            -  백엔드 : Spring Boot , JSP , Java  
               
-              DB :  MariaDB , SQL  
+            -  DB :  MariaDB , SQL  
               
-              기타 : jQuery , ajax , github , apache Tomcat , PostMan   
+            -  기타 : jQuery , ajax , github , apache Tomcat , PostMan   
               
 
   

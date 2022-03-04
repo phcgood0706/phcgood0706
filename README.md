@@ -14,11 +14,8 @@
 
 <h4>개발언어/환경</h4>
             -프론트 : html5 css js<br>   
-
-            -백엔드 : Spring Boot , JSP , Java<br>  
-              
-            -DB :  MariaDB , SQL<br>  
-              
+            -백엔드 : Spring Boot , JSP , Java<br>              
+            -DB :  MariaDB , SQL<br>               
             -기타 : jQuery , ajax , github , apache Tomcat , PostMan<br>   
               
 

@@ -12,7 +12,7 @@
 
 
 팀 프로젝트2 ) (클론코딩) [스프링 부트 SNS 포토그램 웹 사이트 만들기](https://github.com/phcgood0706/SpringBoot-Photogram)  
-[포트폴리오 자료](https://github.com/phcgood0706/PortFolio-TEAM.git)
+[포트폴리오 자료](https://github.com/phcgood0706/PortFolio-TEAM.git)  
 개발언어/환경
  - 프론트 : html5 css js     
  - 백엔드 : Spring Boot , JSP , Java , JSON                 

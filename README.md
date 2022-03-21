@@ -1,6 +1,6 @@
 <h2>학원 교육이수 내용 : Java, HTML5 , SQL , JSP , Spring 등</h2>
   
-개인 프로젝트1 ) [의류 쇼핑몰 웹 사이트 만들기] 
+개인 프로젝트1 ) [의류 쇼핑몰 웹 사이트 만들기]   
 [포트폴리오 자료](https://github.com/phcgood0706/PortFolio.git)
 
 개발언어/환경
